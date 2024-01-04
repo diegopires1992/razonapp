@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "kFM7ITTFLAu5lvrgvdxg8CHrb+nOnJHg8kQFG+a5nEQ=",
+  "Source": "MyRazonApp",
+  "BasePath": "_content/MyRazonApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyRazonApp\\wwwroot",
+      "Source": "MyRazonApp",
+      "ContentRoot": "C:\\Users\\Esparta\\Desktop\\testeRazor\\MyRazonApp\\wwwroot\\",
+      "BasePath": "_content/MyRazonApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
